@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Steven <img height="40" src="https://emoji.gg/emoji/54655-pusheensailor"></h1>
+<h1 align="center">Hi 👋, I'm Steven <a href="https://emoji.gg/emoji/54655-pusheensailor"><img src="https://cdn3.emoji.gg/emojis/54655-pusheensailor.gif" width="64px" height="64px" alt="PusheenSailor"></a></h1>
 <h3 align="center">A passionate Front-End and a beginner designer developer from Costa Rica</h3>
 
 - 🔭 I’m currently working on **Learning in my the course of INA**
