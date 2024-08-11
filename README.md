@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **stevenrojasrivera182@gmail.com**
 
-- ⚡ What I like to do: **I like so much reading manga, Play videogames, the nature, design and coding of course**
+- ⚡ What I like to do: **I like so much reading Manga, The nature, Play videogames, design and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
