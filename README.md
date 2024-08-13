@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Steven <a href="https://emoji.gg/emoji/54655-pusheensailor"><img src="https://cdn3.emoji.gg/emojis/54655-pusheensailor.gif" width="64px" height="64px" alt="PusheenSailor"></a></h1>
 <h3 align="center">A passionate Front-End and a beginner designer developer from Costa Rica</h3>
 
-- 🔭 I’m currently working on **Learning in my the course of INA**
+- 🔭 I’m currently working on **Learning in my the course of the INA**
 
 - 🌱 I’m currently learning **Javascript, HTML5 and CSS3**
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
+- 👯 I’m looking to collaborate on **Front-end, Back-end and Design projects**
 
 - 📫 How to reach me: **stevenrojasrivera182@gmail.com**
 
@@ -17,13 +17,9 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-rojas-rivera-078172269/)
 <a href="mailto:stevenrojasrivera182@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-
-  
+</a>  
 </div>
-
 <h3 align="center">Languages and Tools:</h3>
-
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
