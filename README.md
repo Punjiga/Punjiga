@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Learning in my the course of the INA**
 
-- 🌱 I’m currently learning **Javascript, HTML5 and CSS3**
+- 🌱 I’m currently learning **Javascript, HTML5, CSS3, React and Boostrap**
 
 - 👯 I’m looking to collaborate on **Front-end, Back-end and Design projects**
 
