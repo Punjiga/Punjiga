@@ -34,11 +34,11 @@
   </a>
   
   <a href="https://www.linkedin.com/in/steven-rojas-rivera-078172269">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="74px">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="73px">
   </a>
   
   <a href="https://www.instagram.com/tiven.hxh">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" width="109px">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" width="108px">
   </a>
   
 </div>
