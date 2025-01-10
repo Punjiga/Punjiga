@@ -24,7 +24,6 @@
 
 <h3 align="center">Feel free to contact with me</h3>
 <div align="center">
-  
   <a href="https://wa.me/qr/YCRIHTASBVS7K1" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" width="105px">
   </a>
@@ -40,9 +39,6 @@
   <a href="https://www.instagram.com/tiven.hxh" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" width="108px">
   </a>
-  
 </div>
-
-
 
 Last Edited on: 09/01/2025
