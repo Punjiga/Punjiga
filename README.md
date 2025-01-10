@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Steven <a href="https://emoji.gg/emoji/54655-pusheensailor"><img src="https://cdn3.emoji.gg/emojis/54655-pusheensailor.gif" width="64px" height="64px" alt="PusheenSailor"></a></h1>
 <h3 align="center">Front-End developer and design enthusiast on a journey from Costa Rica. </h3>
 
-- 🔭 I’m currently working on **Evaluations from INA and personal projects**
+<p align="center">🚀 I’m currently working on **Evaluations from INA and personal projects**</p>
 
-- 🌱 I’m currently learning **Javascript, HTML5, CSS3, React and Boostrap**
+<p align="center">📚 I’m currently learning **Javascript, HTML5, CSS3, React and Bootstrap**</p>
 
-- 🧩 I’m looking to collaborate on **Front-end, Back-end and Design projects**
+<p align="center">🧩 I’m looking to collaborate on **Front-end, Back-end and Design projects**</p>
 
-- 📫 How to reach me: **stevenrojasrivera182@gmail.com**
+<p align="center">✉️ How to reach me: **stevenrojasrivera182@gmail.com**</p>
 
-- ⚡ What I like to do: **I like so much the nature, draw, play videogames and of course coding and design**
+<p align="center">🌲 What I like to do: **I like so much the nature, draw, play videogames and of course coding and design**</p>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
