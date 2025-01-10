@@ -11,6 +11,12 @@
 
 <p align="center">🌲 What I like to do: *I like so much the nature, draw, play videogames and of course coding and design*</p>
 
+<h3 align="center">Connect with me:</h3>
+<div align="center">
+<a href="https://wa.me/qr/YCRIHTASBVS7K1" target="_blank">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)</a>
+<a href="mailto:stevenrojasrivera182@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/steven-rojas-rivera-078172269" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)</a>
+</div>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -35,12 +41,7 @@
   </a>
 </p>
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-<a href="https://wa.me/qr/YCRIHTASBVS7K1" target="_blank">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)</a>
-<a href="mailto:stevenrojasrivera182@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/steven-rojas-rivera-078172269" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)</a>
-</div>
+
 
 
 Last Edited on: 09/01/2025
