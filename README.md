@@ -38,7 +38,7 @@
   </a>
   
   <a href="https://www.instagram.com/tiven.hxh">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" width="108px">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" width="109px">
   </a>
   
 </div>
